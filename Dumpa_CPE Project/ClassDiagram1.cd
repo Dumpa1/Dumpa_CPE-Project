@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Dumpa_CPE_Project.Accounts">
+    <Position X="14.75" Y="12.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAgRAAAgNCAQIBgQAACASAACAAgkAACgAhAAAAACAQY=</HashCode>
+      <FileName>Accounts.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dumpa_CPE_Project.Admin_Homepage">
+    <Position X="9.5" Y="11.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>ARCAgAAEACAAAIAAAgCAAAACIAAAQAAAAAACASBAAAA=</HashCode>
+      <FileName>Admin Homepage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dumpa_CPE_Project.Calorie_Calculator">
+    <Position X="14.75" Y="5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>8CAAACEAASAgABAQAACACEFSIEAYAAAAMGBCAAAAgAI=</HashCode>
+      <FileName>Caolorie Calculator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dumpa_CPE_Project.Feedback">
+    <Position X="21.5" Y="1.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAAACAAAESAAAIAAAAEGAAAAAAAAA=</HashCode>
+      <FileName>Feedback.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dumpa_CPE_Project.FeedbackAdmin">
+    <Position X="20" Y="10.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAACAEABAAAACAAAASAAgoAAAAEEAAAAAAAAA=</HashCode>
+      <FileName>FFeedbackAdmin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dumpa_CPE_Project.Form1">
+    <Position X="3.25" Y="7.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>ABAAAAQAACAAABAAAACAAAACAAA4ABAAAFAAAQAAAAA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dumpa_CPE_Project.createAccountForm">
+    <Position X="3.25" Y="11.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAgAAQAiACAAABEAEASBAAACAAA4AAAAAHAAAQFACAA=</HashCode>
+      <FileName>Form2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dumpa_CPE_Project.SignInForm">
+    <Position X="6.25" Y="9" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAgAAAAgACAAABEAAASAAAACAAA5AAAAAHAAAQFAAAA=</HashCode>
+      <FileName>Form3.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dumpa_CPE_Project.Home">
+    <Position X="12" Y="9" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAABAAACAAAAAAAACAAAACAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>Home.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dumpa_CPE_Project.MealPlan">
+    <Position X="17" Y="3.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAIAAAQAACAAABAAAASAAAECAMA5AAAAAHAOAAAAAAA=</HashCode>
+      <FileName>MealPlan.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dumpa_CPE_Project.Meals">
+    <Position X="19.25" Y="2.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAACQAECAAABAAAACAAAECAEAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Meals.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dumpa_CPE_Project.Program">
+    <Position X="3" Y="5.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dumpa_CPE_Project.Users_Homepage">
+    <Position X="9.5" Y="5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>ABAAIAQAACAAAIAAAACAAAECAEAZQAAAAOACAyBAAAA=</HashCode>
+      <FileName>Users Homepage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dumpa_CPE_Project.UsersInfo">
+    <Position X="17.75" Y="11.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AEAVAACANiAQIJg4hADASQSCCGggIAAgRJAAAAAKhQY=</HashCode>
+      <FileName>UsersInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
